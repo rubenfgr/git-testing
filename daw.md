@@ -7,9 +7,3 @@
 - Desarrollo web en entorno servidor
 - Horas de libre configuración
 - Despliegue de aplicaciones web
-
-## Profesores
-
-- Maria
-- Amador
-- Oscar
