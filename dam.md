@@ -13,9 +13,3 @@
 - Desarrollo de interfaces
 - Sistemas de gestión empresarial
 - Horas de libre configuración
-
-## Profesores
-
-- Javier
-- María
-- Elisa
